@@ -1,9 +1,7 @@
 import pandas as pd 
 import numpy as np 
-import seaborn as sns 
 import matplotlib.pyplot as plt 
 import plotly.express as px 
-import plotly.figure_factory as ff 
 import streamlit as st
 
 st.set_page_config(page_title="Data Analysis Project", page_icon="📊", layout="wide", initial_sidebar_state="expanded", menu_items=None)
